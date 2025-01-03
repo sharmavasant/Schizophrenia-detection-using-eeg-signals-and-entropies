@@ -1,0 +1,1 @@
+# Schizophrenia-detection-using-eeg-signals-and-entropies
